@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fromLanguages">
+        <item>自动检测</item>
+        <item>文言文</item>
+        <item>中文</item>
+        <item>英文</item>
+    </string-array>
+    <string-array name="toLanguages">
+        <item>中文</item>
+        <item>英文</item>
+        <item>文言文</item>
+    </string-array>
+</resources>
